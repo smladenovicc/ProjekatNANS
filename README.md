@@ -1,0 +1,2 @@
+# ProjekatNANS
+Predikcija cene laptopa
