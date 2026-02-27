@@ -1,2 +1,2 @@
 # ProjekatNANS
-Predikcija cene laptopa
+Analiza uticaja tehnickih i kategorijskih karakteristika laptopa na cenu
